@@ -1,5 +1,10 @@
 # JobFinder
 
+Please add javaFX dependencies and my SQL coonector by refeerring these two videos 
+https://www.youtube.com/watch?v=nz8P528uGjk
+https://www.youtube.com/watch?v=y1IU65ffx7A
+
+
 ![CHEESE!](Image1.PNG)
 ![CHEESE!](Image2.PNG)
 ![CHEESE!](Image3.PNG)
